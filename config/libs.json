@@ -12,5 +12,6 @@
         "/jslib/chosen.jquery.min.js",
         "/jslib/cookie.js",
         "/express-admin.js"
-    ]
+    ],
+    "darkly": "/bootswatch/darkly/bootstrap.min.css"
 }
